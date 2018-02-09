@@ -1,0 +1,177 @@
+[19:03:53] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[19:03:53] [main/INFO] [FML/]: Forge Mod Loader version 14.23.2.2613 for Minecraft 1.12.2 loading
+[19:03:53] [main/INFO] [FML/]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_144, running on Linux:amd64:4.14.12-x86_64-linode92, installed at /usr/lib/jvm/java-8-openjdk/jre
+[19:03:53] [main/DEBUG] [FML/]: Java classpath at launch is:
+[19:03:53] [main/DEBUG] [FML/]:     forge-1.12.2-14.23.2.2613-universal.jar
+[19:03:53] [main/DEBUG] [FML/]: Java library path at launch is:
+[19:03:53] [main/DEBUG] [FML/]:     /usr/java/packages/lib/amd64
+[19:03:53] [main/DEBUG] [FML/]:     /usr/lib64
+[19:03:53] [main/DEBUG] [FML/]:     /lib64
+[19:03:53] [main/DEBUG] [FML/]:     /lib
+[19:03:53] [main/DEBUG] [FML/]:     /usr/lib
+[19:03:53] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[19:03:53] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[19:03:53] [main/DEBUG] [FML/]: Found signing certificates for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin)
+[19:03:53] [main/DEBUG] [FML/]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[19:03:53] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[19:03:53] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[19:03:53] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[19:03:53] [main/DEBUG] [FML/]: Found signing certificates for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin)
+[19:03:53] [main/DEBUG] [FML/]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[19:03:53] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[19:03:53] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[19:03:53] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to /home/zhang/Git/mc-reborn/.
+[19:03:53] [main/DEBUG] [FML/]: Adding net.minecraftforge:MercuriusUpdater (/home/zhang/Git/mc-reborn/./libraries/net/minecraftforge/MercuriusUpdater/1.12.2/MercuriusUpdater-1.12.2.jar) to the mod list
+[19:03:53] [main/DEBUG] [FML/]: Discovering coremods
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy AutoRegLib-1.3-15.jar
+[19:03:53] [main/DEBUG] [FML/]: Not found coremod data in AutoRegLib-1.3-15.jar
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy BiomesOPlenty-1.12.2-7.0.1.2313-universal.jar
+[19:03:53] [main/DEBUG] [FML/]: Not found coremod data in BiomesOPlenty-1.12.2-7.0.1.2313-universal.jar
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy Chameleon-1.12-4.1.3.jar
+[19:03:53] [main/DEBUG] [FML/]: Not found coremod data in Chameleon-1.12-4.1.3.jar
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy chickens-6.0.3.jar
+[19:03:53] [main/DEBUG] [FML/]: Not found coremod data in chickens-6.0.3.jar
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy IvToolkit-1.3.3-1.12.jar
+[19:03:53] [main/TRACE] [FML/]: Adding IvToolkit-1.3.3-1.12.jar to the list of known coremods, it will not be examined again
+[19:03:53] [main/DEBUG] [FML/]: Instantiating coremod class IvToolkitLoadingPlugin
+[19:03:53] [main/TRACE] [FML/]: coremod named IvToolkit is loading
+[19:03:53] [main/WARN] [FML/]: The coremod ivorius.ivtoolkit.IvToolkitLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:03:53] [main/WARN] [FML/]: The coremod IvToolkit (ivorius.ivtoolkit.IvToolkitLoadingPlugin) is not signed!
+[19:03:53] [main/DEBUG] [FML/]: Enqueued coremod IvToolkit
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy jei_1.12.2-4.8.5.147.jar
+[19:03:53] [main/DEBUG] [FML/]: Not found coremod data in jei_1.12.2-4.8.5.147.jar
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy journeymap-1.12.2-5.5.2.jar
+[19:03:53] [main/DEBUG] [FML/]: Not found coremod data in journeymap-1.12.2-5.5.2.jar
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy lostcities-1.12-2.0.0.jar
+[19:03:53] [main/DEBUG] [FML/]: Not found coremod data in lostcities-1.12-2.0.0.jar
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy Mantle-1.12-1.3.1.21.jar
+[19:03:53] [main/DEBUG] [FML/]: Not found coremod data in Mantle-1.12-1.3.1.21.jar
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy MercuriusUpdater-1.12.2.jar
+[19:03:53] [main/DEBUG] [FML/]: Not found coremod data in MercuriusUpdater-1.12.2.jar
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy Morpheus-1.12-3.3.2.jar
+[19:03:53] [main/DEBUG] [FML/]: Not found coremod data in Morpheus-1.12-3.3.2.jar
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy natura-1.12.2-4.3.2.42.jar
+[19:03:53] [main/DEBUG] [FML/]: Not found coremod data in natura-1.12.2-4.3.2.42.jar
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy OptiFine-1.12.2_HD_U_C8.jar
+[19:03:53] [main/INFO] [FML/]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-1.12.2_HD_U_C8.jar
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy Pam's+HarvestCraft+1.12.2o.jar
+[19:03:53] [main/DEBUG] [FML/]: Not found coremod data in Pam's+HarvestCraft+1.12.2o.jar
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy Psi-r1.1-59.jar
+[19:03:53] [main/DEBUG] [FML/]: Not found coremod data in Psi-r1.1-59.jar
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy Quark-r1.4-122.jar
+[19:03:53] [main/WARN] [FML/]: Found FMLCorePluginContainsFMLMod marker in Quark-r1.4-122.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:03:53] [main/DEBUG] [FML/]: Instantiating coremod class LoadingPlugin
+[19:03:53] [main/WARN] [FML/]: The coremod vazkii.quark.base.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:03:53] [main/WARN] [FML/]: The coremod LoadingPlugin (vazkii.quark.base.asm.LoadingPlugin) is not signed!
+[19:03:53] [main/DEBUG] [FML/]: Enqueued coremod LoadingPlugin
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy RecurrentComplex-1.4.7.jar
+[19:03:53] [main/DEBUG] [FML/]: Not found coremod data in RecurrentComplex-1.4.7.jar
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy Reliquary-1.12.2-1.3.4.733.jar
+[19:03:53] [main/DEBUG] [FML/]: Not found coremod data in Reliquary-1.12.2-1.3.4.733.jar
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy RoguelikeDungeons-1.12.2-1.8.0.jar
+[19:03:53] [main/DEBUG] [FML/]: Not found coremod data in RoguelikeDungeons-1.12.2-1.8.0.jar
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy StorageDrawers-1.12.2-5.3.4.jar
+[19:03:53] [main/DEBUG] [FML/]: Not found coremod data in StorageDrawers-1.12.2-5.3.4.jar
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy Treecapitator-1.12-at_0.9a.jar
+[19:03:53] [main/DEBUG] [FML/]: Not found coremod data in Treecapitator-1.12-at_0.9a.jar
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy twilightforest-1.12.2-3.6.345-universal.jar
+[19:03:53] [main/DEBUG] [FML/]: Not found coremod data in twilightforest-1.12.2-3.6.345-universal.jar
+[19:03:53] [main/DEBUG] [FML/]: Examining for coremod candidacy Waystones_1.12.2-4.0.20.jar
+[19:03:53] [main/DEBUG] [FML/]: Not found coremod data in Waystones_1.12.2-4.0.20.jar
+[19:03:53] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:03:53] [main/INFO] [LaunchWrapper/]: Loading tweak class name optifine.OptiFineForgeTweaker
+[19:03:53] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:03:53] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:03:53] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:03:53] [main/INFO] [LaunchWrapper/]: Calling tweak class optifine.OptiFineForgeTweaker
+[19:03:53] [main/INFO] [STDOUT/]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[19:03:53] [main/INFO] [STDOUT/]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[19:03:53] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:03:53] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[19:03:53] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[19:03:54] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[19:03:54] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[19:03:54] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[19:03:54] [main/DEBUG] [FML/]: Injection complete
+[19:03:54] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[19:03:54] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[19:03:58] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[19:03:58] [main/DEBUG] [FML/]: Read 1056 binary patches
+[19:03:59] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.12.2.lzma with 36083 records
+[19:04:00] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[19:04:00] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[19:04:00] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:04:00] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[19:04:00] [main/DEBUG] [FML/]: Injection complete
+[19:04:00] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[19:04:00] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[19:04:00] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[19:04:00] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:04:00] [main/DEBUG] [FML/]: Injecting coremod IvToolkit \{ivorius.ivtoolkit.IvToolkitLoadingPlugin\} class transformers
+[19:04:00] [main/DEBUG] [FML/]: Injection complete
+[19:04:00] [main/DEBUG] [FML/]: Running coremod plugin for IvToolkit \{ivorius.ivtoolkit.IvToolkitLoadingPlugin\}
+[19:04:00] [main/DEBUG] [FML/]: Running coremod plugin IvToolkit
+[19:04:00] [main/DEBUG] [FML/]: Coremod plugin class IvToolkitLoadingPlugin run successfully
+[19:04:00] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:04:00] [main/DEBUG] [FML/]: Injecting coremod LoadingPlugin \{vazkii.quark.base.asm.LoadingPlugin\} class transformers
+[19:04:00] [main/TRACE] [FML/]: Registering transformer vazkii.quark.base.asm.ClassTransformer
+[19:04:00] [main/DEBUG] [FML/]: Injection complete
+[19:04:00] [main/DEBUG] [FML/]: Running coremod plugin for LoadingPlugin \{vazkii.quark.base.asm.LoadingPlugin\}
+[19:04:00] [main/DEBUG] [FML/]: Running coremod plugin LoadingPlugin
+[19:04:00] [main/DEBUG] [FML/]: Coremod plugin class LoadingPlugin run successfully
+[19:04:00] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:04:01] [main/DEBUG] [FML/]: Loaded 209 rules from AccessTransformer config file forge_at.cfg
+[19:04:01] [main/DEBUG] [FML/]: Loaded 8 rules from AccessTransformer mod jar file /home/zhang/Git/mc-reborn/mods/Mantle-1.12-1.3.1.21.jar!META-INF/mantle_at.cfg
+
+[19:04:01] [main/DEBUG] [FML/]: Loaded 24 rules from AccessTransformer mod jar file /home/zhang/Git/mc-reborn/mods/twilightforest-1.12.2-3.6.345-universal.jar!META-INF/tf_at.cfg
+
+[19:04:01] [main/DEBUG] [FML/]: Loaded 5 rules from AccessTransformer mod jar file /home/zhang/Git/mc-reborn/mods/lostcities-1.12-2.0.0.jar!META-INF/lostcities_at.cfg
+
+[19:04:01] [main/DEBUG] [FML/]: Loaded 4 rules from AccessTransformer mod jar file /home/zhang/Git/mc-reborn/mods/Waystones_1.12.2-4.0.20.jar!META-INF/waystones_at.cfg
+
+[19:04:01] [main/DEBUG] [FML/]: Loaded 1 rules from AccessTransformer mod jar file /home/zhang/Git/mc-reborn/mods/journeymap-1.12.2-5.5.2.jar!META-INF/journeymap_at.cfg
+
+[19:04:01] [main/DEBUG] [FML/]: Loaded 13 rules from AccessTransformer mod jar file /home/zhang/Git/mc-reborn/mods/BiomesOPlenty-1.12.2-7.0.1.2313-universal.jar!META-INF/biomesoplenty_at.cfg
+
+[19:04:01] [main/DEBUG] [FML/]: Loaded 2 rules from AccessTransformer mod jar file /home/zhang/Git/mc-reborn/mods/jei_1.12.2-4.8.5.147.jar!META-INF/jei_at.cfg
+
+[19:04:01] [main/DEBUG] [FML/]: Validating minecraft
+[19:04:02] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[19:04:02] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:04:02] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:04:02] [main/INFO] [STDOUT/]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[19:04:03] [main/INFO] [FML/]: [Quark ASM] Transforming WorldServer
+[19:04:03] [main/INFO] [FML/]: [Quark ASM] Applying Transformation to method (Names [areAllPlayersAsleep, func_73056_e, g] Descriptor ()Z / ()Z)
+[19:04:03] [main/INFO] [FML/]: [Quark ASM] Located Method, patching...
+[19:04:03] [main/INFO] [FML/]: [Quark ASM] Located patch target node L0
+[19:04:03] [main/INFO] [FML/]: [Quark ASM] Patch result: true
+[19:04:04] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[19:04:07] [main/INFO] [FML/]: [Quark ASM] Transforming BlockPistonBase
+[19:04:07] [main/INFO] [FML/]: [Quark ASM] Applying Transformation to method (Names [doMove, func_176319_a, a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z / (Lamu;Let;Lfa;Z)Z)
+[19:04:07] [main/INFO] [FML/]: [Quark ASM] Located Method, patching...
+[19:04:07] [main/INFO] [FML/]: [Quark ASM] Located patch target node ASTORE 11
+[19:04:07] [main/INFO] [FML/]: [Quark ASM] Patch result: true
+[19:04:07] [main/INFO] [FML/]: [Quark ASM] Applying Transformation to method (Names [canPush, func_185646_a, a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;ZLnet/minecraft/util/EnumFacing;)Z / (Lawt;Lamu;Let;Lfa;ZLfa;)Z)
+[19:04:07] [main/INFO] [FML/]: [Quark ASM] Located Method, patching...
+[19:04:07] [main/INFO] [FML/]: [Quark ASM] Located patch target node INVOKEVIRTUAL aow.hasTileEntity (Lawt;)Z
+[19:04:07] [main/INFO] [FML/]: [Quark ASM] Patch result: true
+[19:04:07] [main/INFO] [FML/]: [Quark ASM] Transforming TileEntityPiston
+[19:04:07] [main/INFO] [FML/]: [Quark ASM] Applying Transformation to method (Names [clearPistonTileEntity, func_145866_f, j] Descriptor ()V / ()V)
+[19:04:07] [main/INFO] [FML/]: [Quark ASM] Located Method, patching...
+[19:04:07] [main/INFO] [FML/]: [Quark ASM] Located patch target node INVOKEVIRTUAL amu.a (Let;Lawt;I)Z
+[19:04:07] [main/INFO] [FML/]: [Quark ASM] Patch result: true
+[19:04:07] [main/INFO] [FML/]: [Quark ASM] Applying Transformation to method (Names [update, func_73660_a, e] Descriptor ()V / ()V)
+[19:04:07] [main/INFO] [FML/]: [Quark ASM] Located Method, patching...
+[19:04:07] [main/INFO] [FML/]: [Quark ASM] Located patch target node INVOKEVIRTUAL amu.a (Let;Lawt;I)Z
+[19:04:07] [main/INFO] [FML/]: [Quark ASM] Patch result: true
+[19:04:12] [main/INFO] [FML/]: [Quark ASM] Transforming EntityBoat
+[19:04:12] [main/INFO] [FML/]: [Quark ASM] Applying Transformation to method (Names [attackEntityFrom, func_70097_a, a] Descriptor (Lnet/minecraft/util/DamageSource;F)Z / (Lur;F)Z)
+[19:04:12] [main/INFO] [FML/]: [Quark ASM] Located Method, patching...
+[19:04:12] [main/INFO] [FML/]: [Quark ASM] Located patch target node POP
+[19:04:12] [main/INFO] [FML/]: [Quark ASM] Patch result: true
+[19:04:12] [main/INFO] [FML/]: [Quark ASM] Applying Transformation to method (Names [onUpdate, func_70071_h_, B_] Descriptor ()V / ()V)
+[19:04:12] [main/INFO] [FML/]: [Quark ASM] Located Method, patching...
+[19:04:12] [main/INFO] [FML/]: [Quark ASM] Located patch target node L0
+[19:04:12] [main/INFO] [FML/]: [Quark ASM] Patch result: true
+[19:04:17] [main/DEBUG] [FML/]: Creating vanilla freeze snapshot
+[19:04:17] [main/DEBUG] [FML/]: Vanilla freeze snapshot created
