@@ -653,12 +653,6 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_boots": "2018-02-09 22:50:13 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2018-02-08 21:20:23 -0500"
@@ -670,14 +664,6 @@
       "has_the_recipe": "2018-02-08 21:20:23 -0500"
     },
     "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "chaparral": "2018-02-09 22:50:48 -0500",
-      "grove": "2018-02-09 23:04:45 -0500",
-      "lavender_fields": "2018-02-09 22:53:06 -0500"
-    },
-    "done": false
   },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
@@ -2308,8 +2294,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "potato": "2018-02-08 21:36:28 -0500",
-      "bread": "2018-02-09 23:04:33 -0500"
+      "potato": "2018-02-08 21:36:28 -0500"
     },
     "done": false
   },
@@ -2486,12 +2471,6 @@
       "has_the_recipe": "2018-02-08 21:20:23 -0500"
     },
     "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "bred_chicken": "2018-02-09 22:35:30 -0500"
-    },
-    "done": false
   },
   "biomesoplenty:recipes/redstone/ebony_fence_gate": {
     "criteria": {
@@ -3627,12 +3606,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred_chicken": "2018-02-09 22:35:30 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_the_recipe": "2018-02-08 21:20:23 -0500"
@@ -3750,12 +3723,6 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2018-02-08 21:20:23 -0500"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2018-02-09 22:50:13 -0500"
     },
     "done": true
   },

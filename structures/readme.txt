@@ -1,1 +1,0 @@
-Extract "schematics", "inactive", and "active" into your "%appdata%/.minecraft/structures" folder.
