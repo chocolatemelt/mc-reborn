@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2018-02-11 16:04:34 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2018-02-08 20:05:19 -0500"
@@ -687,7 +693,9 @@
       "mountain": "2018-02-08 20:38:53 -0500",
       "highland": "2018-02-10 20:44:57 -0500",
       "chaparral": "2018-02-09 20:33:05 -0500",
+      "flower_field": "2018-02-11 19:42:22 -0500",
       "mountain_foothills": "2018-02-08 20:38:42 -0500",
+      "cold_desert": "2018-02-13 19:14:27 -0500",
       "maple_woods": "2018-02-08 20:16:04 -0500",
       "coral_reef": "2018-02-09 20:39:17 -0500",
       "orchard": "2018-02-09 20:26:17 -0500",
@@ -695,7 +703,9 @@
       "outback": "2018-02-10 16:59:44 -0500",
       "wasteland": "2018-02-09 23:36:56 -0500",
       "redwood_forest": "2018-02-09 20:35:10 -0500",
+      "snowy_forest": "2018-02-13 19:14:39 -0500",
       "seasonal_forest": "2018-02-09 20:25:04 -0500",
+      "temperate_rainforest": "2018-02-11 16:20:47 -0500",
       "dead_forest": "2018-02-09 20:37:25 -0500",
       "kelp_forest": "2018-02-08 20:38:44 -0500",
       "prairie": "2018-02-08 22:17:54 -0500",
@@ -774,6 +784,12 @@
   "biomesoplenty:recipes/decorations/mangrove_fence": {
     "criteria": {
       "has_the_recipe": "2018-02-08 20:05:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2018-02-11 15:41:57 -0500"
     },
     "done": true
   },
@@ -920,9 +936,11 @@
       "zombie_villager": "2018-02-10 16:52:42 -0500",
       "skeleton": "2018-02-09 19:18:14 -0500",
       "zombie": "2018-02-08 20:58:25 -0500",
+      "cave_spider": "2018-02-13 19:42:40 -0500",
       "witch": "2018-02-09 19:52:01 -0500",
       "spider": "2018-02-09 19:20:59 -0500",
-      "creeper": "2018-02-09 19:18:29 -0500"
+      "creeper": "2018-02-09 19:18:29 -0500",
+      "enderman": "2018-02-11 21:35:49 -0500"
     },
     "done": false
   },
@@ -1276,7 +1294,9 @@
   },
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
-      "emerald": "2018-02-09 20:31:55 -0500"
+      "amber": "2018-02-11 20:41:02 -0500",
+      "emerald": "2018-02-09 20:31:55 -0500",
+      "sapphire": "2018-02-11 21:24:39 -0500"
     },
     "done": false
   },
@@ -1637,6 +1657,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "taiga_cold_hills": "2018-02-10 16:49:20 -0500",
+      "frozen_river": "2018-02-13 19:18:38 -0500",
       "forest": "2018-02-08 20:41:13 -0500",
       "birch_forest": "2018-02-08 20:16:36 -0500",
       "deep_ocean": "2018-02-08 20:38:23 -0500",
@@ -2954,6 +2975,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2018-02-11 20:38:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2018-02-09 19:28:14 -0500"
@@ -3581,6 +3608,12 @@
   "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
     "criteria": {
       "has_the_recipe": "2018-02-08 20:05:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2018-02-11 15:47:54 -0500"
     },
     "done": true
   },

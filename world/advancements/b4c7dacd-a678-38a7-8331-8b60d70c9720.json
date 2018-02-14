@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2018-02-11 20:36:04 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2018-02-09 19:04:36 -0500"
@@ -503,6 +509,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/harvest_turnip": {
+    "criteria": {
+      "turnip": "2018-02-11 21:29:24 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_the_recipe": "2018-02-09 19:04:36 -0500"
@@ -653,6 +665,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2018-02-11 20:18:29 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2018-02-09 19:04:36 -0500"
@@ -668,10 +686,15 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2018-02-09 19:24:48 -0500",
+      "shrubland": "2018-02-13 19:22:58 -0500",
+      "steppe": "2018-02-13 19:22:12 -0500",
       "chaparral": "2018-02-09 20:54:01 -0500",
+      "cold_desert": "2018-02-13 19:14:31 -0500",
       "maple_woods": "2018-02-09 20:21:30 -0500",
       "orchard": "2018-02-09 20:26:16 -0500",
+      "snowy_forest": "2018-02-13 19:14:54 -0500",
       "seasonal_forest": "2018-02-09 20:25:11 -0500",
+      "temperate_rainforest": "2018-02-13 19:29:47 -0500",
       "prairie": "2018-02-09 19:23:07 -0500",
       "grove": "2018-02-09 19:30:52 -0500",
       "gravel_beach": "2018-02-09 19:45:49 -0500"
@@ -891,7 +914,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2018-02-09 19:07:55 -0500",
-      "zombie": "2018-02-09 19:08:20 -0500"
+      "vindicator": "2018-02-13 20:44:28 -0500",
+      "skeleton": "2018-02-11 21:06:46 -0500",
+      "zombie": "2018-02-09 19:08:20 -0500",
+      "cave_spider": "2018-02-13 19:38:11 -0500",
+      "spider": "2018-02-11 21:47:02 -0500",
+      "creeper": "2018-02-11 20:32:00 -0500"
     },
     "done": false
   },
@@ -1243,6 +1271,14 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/terrestrial_artifact": {
+    "criteria": {
+      "amber": "2018-02-11 20:59:40 -0500",
+      "emerald": "2018-02-11 21:50:51 -0500",
+      "sapphire": "2018-02-11 21:37:19 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_the_recipe": "2018-02-09 19:04:36 -0500"
@@ -1264,6 +1300,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_the_recipe": "2018-02-09 19:04:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2018-02-11 21:06:39 -0500"
     },
     "done": true
   },
@@ -1593,8 +1635,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "frozen_river": "2018-02-13 19:18:38 -0500",
       "forest": "2018-02-09 19:15:56 -0500",
       "birch_forest": "2018-02-09 20:26:03 -0500",
+      "extreme_hills_with_trees": "2018-02-13 19:13:38 -0500",
       "forest_hills": "2018-02-09 19:21:57 -0500",
       "plains": "2018-02-09 19:16:30 -0500",
       "taiga": "2018-02-09 19:04:36 -0500",
@@ -2315,8 +2359,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2018-02-11 22:14:50 -0500",
       "apple": "2018-02-09 20:30:22 -0500",
       "potato": "2018-02-09 19:25:51 -0500",
+      "bread": "2018-02-13 20:20:47 -0500",
       "rotten_flesh": "2018-02-09 19:18:13 -0500"
     },
     "done": false
@@ -2516,6 +2562,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2018-02-09 19:04:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2018-02-11 15:31:07 -0500"
     },
     "done": true
   },
@@ -2882,6 +2934,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2018-02-09 19:04:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2018-02-11 20:38:40 -0500"
     },
     "done": true
   },
@@ -3500,6 +3558,12 @@
   "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
     "criteria": {
       "has_the_recipe": "2018-02-09 19:04:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2018-02-11 20:31:54 -0500"
     },
     "done": true
   },
