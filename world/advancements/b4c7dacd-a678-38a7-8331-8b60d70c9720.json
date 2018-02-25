@@ -1274,6 +1274,7 @@
   },
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
+      "peridot": "2018-02-24 19:29:07 -0500",
       "amber": "2018-02-11 20:59:40 -0500",
       "emerald": "2018-02-11 21:50:51 -0500",
       "sapphire": "2018-02-11 21:37:19 -0500"
@@ -2902,6 +2903,12 @@
     },
     "done": true
   },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2018-02-24 20:00:23 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_banner": {
     "criteria": {
       "has_the_recipe": "2018-02-09 19:04:36 -0500"
@@ -3367,6 +3374,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2018-02-09 19:04:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2018-02-24 19:48:07 -0500"
     },
     "done": true
   },
